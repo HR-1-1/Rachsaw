@@ -1,5 +1,5 @@
 # Rachsaw
-Design of an Intelligent Car Washing bot.
+Design of an Intelligent Car Washing bot. Entry for the I-Bot summer school competition 2021.
 ***
 - Designed to clean the car in the minimum time possible using minimal resources.
 - This is an entry to the iBot Summer School Robotics competiton.
